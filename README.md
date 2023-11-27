@@ -12,6 +12,7 @@ Reference:
 - Training at train_task_1.py
 - Output model is model_task_1.json
 - Run inference at inference_task_1.py
+- Loss chart <br><img src="https://github.com/JianNguyen/Thinkprompt-Testing/blob/main/chart_task_1.jpg?raw=true">
 ## Task 2
 The result is **task_2.py**
 Run task_2.py and input name of two teams
@@ -23,6 +24,7 @@ Reference:
 - Training at train_task_3.py
 - Output model is model_task_3.json
 - Run inference at inference_task_3.py
+- Loss chart <br><img src="https://github.com/JianNguyen/Thinkprompt-Testing/blob/main/chart_task_3.jpg?raw=true">
 <br>
 _Note: Use predict_proba() to see capabilities for labels_
 
