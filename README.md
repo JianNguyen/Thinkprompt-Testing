@@ -29,5 +29,7 @@ Reference:
 _Note: Use predict_proba() to see capabilities for labels_
 
 ## Others
+PDF file for task 2 and 3: Thinkprompt-Test2,3.pdf
+<br>
 Because the large limit on git have to lower than 100MB. You can refer files that i processed at [here](https://drive.google.com/drive/folders/1aNV8YyBJ1OmeWp6lpNo7CHp_pmryW1HN?usp=sharing)
 
